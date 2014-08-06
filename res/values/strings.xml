@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhidgetMotor</string>
+    <string name="prompt_ipaddress">IP address</string><string name="motor_name">Motor Name</string>
+</resources>
