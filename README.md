@@ -1,0 +1,2 @@
+# PhidgetMotor
+HCI assignment
